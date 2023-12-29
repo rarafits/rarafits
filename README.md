@@ -1,4 +1,5 @@
-[![Watch the video](link_to_thumbnail_image)](https://youtu.be/FxfrOb1Nlt0)
+<!-- ![MASTERHEAD](Welcome!-2.gif) -->
+<img src="Welcome!-2.gif">
 
 <h1 align="center">Hi 👋, I'm Tiara Fitriyani</h1>
 <h3 align="center">A passionate learner about Business and Data Science</h3>
