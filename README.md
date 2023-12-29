@@ -5,7 +5,7 @@
 
 <img src="programming.gif" align="right" width="400px"/>
 
-🌱 I’m currently learning **Data Science at Dibimbing**
+🌱 I’m currently learning **Data Science**
 
 📫 How to reach me **rarafits19@gmail.com**
 
