@@ -1,16 +1,21 @@
 <!-- ![MASTERHEAD](Welcome!-2.gif) -->
 <img src="Welcome!-2.gif">
 
-<h1 align="center">Hi 👋, I'm Tiara Fitriyani</h1>
+<h1 align="center">Hi! I'm Tiara Fitriyani</h1>
 <h3 align="center">A passionate learner about Business and Data Science</h3>
+<p align="center">I am a dedicated individual with a keen interest in leveraging business strategies through the power of data science. My journey involves continuous learning and exploration of innovative solutions in the dynamic intersection of business and technology.</p>
+
+<p align="center">Coming from a background in agribusiness, I've delved into understanding the intricate patterns of the business world, falling in love with the realm of data and embracing the technological advancements of this era. Despite lacking a formal IT background, I proudly achieved the status of MVP student in a data science bootcamp that I dedicated approximately 6 months to the program.</p>
+
+<p align="center">I firmly believe that there are no limits to what one can achieve as long as there is a willingness to learn and a strong determination.</p>
+
+<p align="center">Collaborate? Why not! I thoroughly enjoy the process of my learning journey and look forward to exploring new opportunities in this ever-evolving field.</p>
+
+⚡ Fun fact; **I love eating and sports! ‧⁺◟( ᵒ̴̶̷̥́ ·̫ ᵒ̴̶̷̣̥̀ ) | ᕕ( ᐛ )ᕗ**
 
 <img src="programming.gif" align="right" width="400px"/>
 
-🌱 I’m currently learning **Data Science**
-
 📫 How to reach me **rarafits19@gmail.com**
-
-⚡ Fun fact **I love eating and sports! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
